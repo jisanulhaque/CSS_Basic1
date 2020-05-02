@@ -51,15 +51,16 @@ input{
 
 
 .box {
-	
-	border: solid 3px white;
-	float: left;
-	margin: 335px 30px 10px;
-	color: white;
-	padding: 5px;
-	text-align: justify;
-	font-size: 16px;
-	display: inline;
+	height: 200px;
+    width: 320px;
+    border: solid 3px white;
+    /* float: left; */
+    margin: 335px 10px 10px;
+    color: white;
+    padding: 5px;
+    text-align: justify;
+    font-size: 16px;
+    display: inline-block;
 }
 
 a {

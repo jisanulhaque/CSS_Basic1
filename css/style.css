@@ -1,0 +1,93 @@
+
+body{
+	background-image: url(../images/travel.jpg);
+	/*background-attachment: scroll;*/
+}
+
+.main {
+	align-items: center;
+}
+
+
+#header{
+	text-align: center;
+    color: white;
+    font-size: 79px;
+    margin-bottom: 0px;
+}
+
+#tag{
+	color: white;
+	font-size: 27px;
+	text-align: center;
+	margin-bottom: 10px;
+}
+#btn {
+	border-radius: 20px;
+	font-size: 15px;
+    width: 150px;
+    height: 40px;
+    background-color: #79BCB3;
+    color: white;
+  	display:block;
+  	margin: auto;
+  	cursor: pointer;
+  	/*border: solid 2px #50af8b;*/
+}
+
+input{
+	width: 660px;
+	height: 25px;
+	border-radius: 35px;
+	font-size: 20px;
+	padding: 12px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 10px;
+	display: block;
+	text-align: left;
+	border: solid 2px white;
+}
+
+
+.box {
+	width:330px;
+	height: 200px;
+	border: solid 3px white;
+	float: left;
+	margin: 335px 42px 10px;
+	color: white;
+	padding: 5px;
+	text-align: justify;
+	font-size: 16px;
+	display: inline;
+}
+
+a {
+	font-size: 30px;
+	color: white;
+	text-align: left;
+	margin: 0px;
+}
+
+
+.box1 {
+	background-image: url(../images/coxbazar.jpg);
+	background-repeat: no-repeat;
+	height: 200px;
+	width:320px;
+}
+
+.box2{
+	background-image: url(../images/bandarban.jpg);
+	background-repeat: no-repeat;
+	height: 200px;
+	width:320px;
+	
+}
+
+.box3 {
+	background-image: url(../images/rangamati.jpg);
+	height: 200px;
+	width:320px;
+}
